@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Weather Widget</string>
+    <string name="tempMin">Temp. Min</string>
+    <string name="tempMax">Temp. Max</string>
+    <string name="feelsLike">Feels Like</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind Speed</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="visibility">Visibility</string>
+    <string name="refresh">Refresh</string>
+    <string name="lastUpdate">Last Update: Loading...</string>
+    <string name="notAvailable">Loading...</string>
+    <string name="na">N/A</string>
+
+</resources>
