@@ -6,7 +6,7 @@ An Andoird JAVA Weather Widget
 -A Refresh Button
 -Using OpenWeather
 # SREENSHOTS
-<p align="center">
+<p float="center" align="center">
   Application Screen
 <div><img src="https://user-images.githubusercontent.com/100727442/222905729-0b80e506-b2aa-44ce-bdde-42759d8b72ae.jpg" width="300"/></div>
   Resizable Widget
