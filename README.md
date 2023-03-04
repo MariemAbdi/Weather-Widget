@@ -1,6 +1,6 @@
 # Weather-Widget
 An Andoird JAVA Weather Widget
--Resizable
+*Resizable
 -Automatic Updates (Every 30 minutes)
 -Automatic Location Detection
 -A Refresh Button
